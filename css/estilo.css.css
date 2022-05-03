@@ -1,0 +1,32 @@
+h1 { background-color:#FCF3CF  ;
+
+color:#1B4F72  ;
+font-size: xxlarge ;
+font-style:normal;
+text-align: center;
+text-decoration:underline;}
+
+img{max-width:500px;
+max-height: 400px;
+display: block;
+margin: auto;;}
+body {background-color: #A3E4D7;}
+
+h3 { background-color:#FCF3CF ;
+  font-style:oblique;
+text-align: center;
+color: #9C640C ;
+text-decoration:underline;}
+
+p{ background-color: ;
+color:#154360 ;
+font-size:large;
+font-style: italic;
+text-align: justify;}
+
+
+
+li{ background-color:;
+color:  #2874A6;
+text-align: justify;
+font-style: italic;}
